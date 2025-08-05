@@ -1,0 +1,30 @@
+„Run“ : 
+Klicken Sie einfach auf die Schaltfläche „Run“, folgen Sie den angezeigten Schritten, 
+und Sie können das gesamte Projekt ausprobieren.
+
+Dieses Programm ist ein sehr einfaches und grundlegendes Java-Projekt, das als Verwaltungssystem 
+für Mitarbeiter, Autos und Personen mit Bankkonten dient. 
+Alle Informationen werden in einer ArrayList gespeichert, ohne Verwendung einer Datenbank. 
+
+Personen, die eine bestimmte Karte (z. B. Visa) besitzen, sind im System registriert 
+und können ein Auto kaufen. Zu jedem Auto gibt es grundlegende Informationen wie 
+die Beschreibung, den Preis, die Kaufnummer und eine Rechnung. 
+Die technischen Details der Autos sind absichtlich vereinfacht, da das Ziel 
+nicht die Erstellung eines perfekten Projekts, sondern das Lernen war.
+
+Mitarbeiter können ihre persönlichen Daten im Unternehmen sowie ihr monatliches Gehalt einsehen. 
+Außerdem können sie ihr Nettogehalt nach Steuern berechnen, 
+basierend auf Informationen wie Familienstand und Kinderzahl. 
+Sie können einige ihrer persönlichen Daten ändern, jedoch nicht alle 
+(z. B. kann die Personalausweisnummer nicht geändert werden). 
+
+Jeder Mitarbeiter kann eine schnelle Anfrage an das Unternehmen senden, 
+um dringende Situationen wie Krankheit oder Arbeitsverhinderung zu melden. 
+
+Es gibt auch einen „geheimen“ Administratorzugang. 
+Wenn das richtige Passwort eingegeben wird, hat der Administrator die Möglichkeit, 
+beliebige Änderungen im System vorzunehmen, z. B. Mitarbeiter oder Autos zu löschen 
+oder deren Informationen zu bearbeiten.
+
+Der einzige Zweck dieses Programms ist es, meine Fortschritte in der Zukunft sehen zu können. 
+Es ist keine professionelle oder komplexe Anwendung, sondern nur zum Üben und Lernen.
