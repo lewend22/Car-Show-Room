@@ -1,0 +1,44 @@
+Variablen  
+Datentypen  
+Operatoren  
+Benutzereingabe  
+Ausgabeformatierung  
+Bedingungen (if, if-else, switch)  
+Schleifen (while, do-while, for, verschachtelte Schleifen)  
+Schleifensteuerung (break, continue)  
+Methoden  
+Methodenüberladung (Overloading)  
+
+--- Objektorientierte Programmierung (OOP) ---  
+Klassen  
+Objekte  
+Konstruktoren  
+Getter und Setter  
+Vererbung (Inheritance)  
+Überschreiben von Methoden (Overriding)  
+Polymorphismus  
+Abstrakte Klassen  
+Interfaces  
+Kapselung (Encapsulation)  
+Abstraktion (Abstraction)  
+
+--- Datenstrukturen ---  
+Array  
+Mehrdimensionales Array  
+Listen (ArrayList)  
+
+--- Pakete und Bibliotheken ---  
+Pakete (Packages)  
+Importieren von Bibliotheken
+------------------------------
+------------------------------
+[Possible Modifications] :
+Add a database to store and manage data about cars, employees, and customers who have a bank account.
+
+Create a new class called Customer to store customer details, including employee ID, their record in the company, and whether they have purchased a car before.
+
+Add a repair and maintenance workshop module to handle car service requests.
+
+Extend the Person class to create Employee subclasses, such as hourly-based employees and daily-based employees.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
