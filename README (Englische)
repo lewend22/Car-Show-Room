@@ -1,0 +1,28 @@
+Simply click the "Run" button, follow the displayed steps, 
+and you can try the entire project
+To use the secret access, simply enter the password.
+
+This program is a very simple and basic Java project that serves as a management system 
+for employees, cars, and people with bank accounts. 
+All information is stored in an ArrayList without using a database. 
+
+People who own a specific card (e.g., Visa) are registered in the system 
+and can purchase a car. Each car includes basic details such as description, price, 
+purchase number, and an invoice. The technical specifications are intentionally simplified, 
+as the goal was learning, not building a perfect project.
+
+Employees can view their personal information within the company as well as their monthly salary. 
+They can also calculate their net salary after taxes, based on information such as 
+marital status and number of children. They can modify some of their personal data, 
+but not all (e.g., the national ID number cannot be changed). 
+
+Each employee can send a quick request to the company to report urgent matters 
+such as illness or inability to come to work. 
+
+There is also a "secret" administrator access. 
+If the correct password is entered, the administrator can make any changes 
+in the system, such as deleting employees or cars, 
+or editing their information.
+
+The sole purpose of this program is to be able to see my progress in the future. 
+It is not a professional or complex application, but only for practice and learning.
