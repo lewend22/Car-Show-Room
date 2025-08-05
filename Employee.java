@@ -1,4 +1,3 @@
-
 package com.mycompany.carshowroom;
 
 import java.util.Scanner;
