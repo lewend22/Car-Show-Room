@@ -1,0 +1,44 @@
+Variables  
+Data Types  
+Operators  
+User Input  
+Output Formatting  
+Conditions (if, if-else, switch)  
+Loops (while, do-while, for, nested loops)  
+Loop Control (break, continue)  
+Methods  
+Method Overloading  
+
+--- Object-Oriented Programming (OOP) ---  
+Classes  
+Objects  
+Constructors  
+Getters and Setters  
+Inheritance  
+Method Overriding  
+Polymorphism  
+Abstract Classes  
+Interfaces  
+Encapsulation  
+Abstraction  
+
+--- Data Structures ---  
+Array  
+Multidimensional Array  
+Lists (ArrayList)  
+
+--- Packages and Libraries ---  
+Packages  
+Importing Libraries
+---------------------------------------
+---------------------------------------
+[Mögliche Änderungen]  :
+
+Eine Datenbank hinzufügen, um Informationen über Autos, Mitarbeiter und Kunden mit Bankkonto zu speichern und zu verwalten.
+
+Eine neue Klasse Kunde erstellen, um Kundendaten zu speichern, einschließlich Mitarbeiter-ID, Firmenakte und ob der Kunde bereits ein Auto gekauft hat oder nicht.
+
+Ein Modul für Reparatur- und Wartungswerkstatt hinzufügen, um Serviceanfragen für Autos zu bearbeiten.
+
+Die Klasse Person erweitern, um Mitarbeiter-Unterklassen zu erstellen, wie z. B. stundenbasierte und tagesbasierte Mitarbeiter
+--------------------------------------------------------------------------------------------------------
